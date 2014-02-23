@@ -1,0 +1,64 @@
+FA,Taxonomy
+10Me16:0,Actinobacteria
+10Me18:0,Actinobacteria
+c16:1w5,Fungi
+c18:1w9,Fungi
+c18:2w6,Fungi
+c18:3w3,Fungi
+c18:3w6,Fungi
+c20:1w9,Fungi
+c20:2,General Eukaryotes
+c20:3w3,General Eukaryotes
+c20:3w6,General Eukaryotes
+c20:4,General Eukaryotes
+c20:4w6,General Eukaryotes
+c20:5w3,General Eukaryotes
+c22:1w9,General Eukaryotes
+c22:2,General Eukaryotes
+c22:6w3,General Eukaryotes
+c24:1w9,General Eukaryotes
+c24:2,General Eukaryotes
+2OH-c10:0,Gram-negative Bacteria
+2OH-c12:0,Gram-negative Bacteria
+2OH-c14:0,Gram-negative Bacteria
+2OH-c16:0,Gram-negative Bacteria
+3OH-c12:0,Gram-negative Bacteria
+3OH-c14:0,Gram-negative Bacteria
+c14:1w5,Gram-negative Bacteria
+c15:1w5,Gram-negative Bacteria
+c16:1w7,Gram-negative Bacteria
+c16:1w9,Gram-negative Bacteria
+c17:1w7,Gram-negative Bacteria
+c18:1w7,Gram-negative Bacteria
+c20:1w9,Gram-negative Bacteria
+cyc17:0,Gram-negative Bacteria
+cyc19:0,Gram-negative Bacteria
+a13:0,Gram-positive Bacteria
+a14:0,Gram-positive Bacteria
+a15:0,Gram-positive Bacteria
+a16:0,Gram-positive Bacteria
+a17:0,Gram-positive Bacteria
+a18:0,Gram-positive Bacteria
+i13:0,Gram-positive Bacteria
+i14:0,Gram-positive Bacteria
+i15:0,Gram-positive Bacteria
+i16:0,Gram-positive Bacteria
+i17:0,Gram-positive Bacteria
+i18:0,Gram-positive Bacteria
+c11:0,Internal PLFA Standard
+c19:0,Internal PLFA Standard
+c20:0,Plant
+c21:0,Plant
+c22:0,Plant
+c23:0,Plant
+c24:0,Plant
+c25:0,Plant
+c26:0,Plant
+c10:0,Total Biomass
+c12:0,Total Biomass
+c13:0,Total Biomass
+c14:0,Total Biomass
+c15:0,Total Biomass
+c16:0,Total Biomass
+c17:0,Total Biomass
+c18:0,Total Biomass
